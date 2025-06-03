@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+<record id="program_25_year_chattel_loan" model="crm.program.config">
+  <field name="name">25 - year Chattel loan</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_30_year_fixed_10yr_io" model="crm.program.config">
+  <field name="name">30 year fixed 10Yr IO</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_chattel_20_yr_fixed" model="crm.program.config">
+  <field name="name">Chattel 20 YR Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_30_year_fixed" model="crm.program.config">
+  <field name="name">Conv 30 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_40_year_fixed" model="crm.program.config">
+  <field name="name">Conv 40 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_20_year_fixed" model="crm.program.config">
+  <field name="name">Conv 20 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_15_year_fixed" model="crm.program.config">
+  <field name="name">Conv 15 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_10_year_fixed" model="crm.program.config">
+  <field name="name">Conv 10 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conforming_custom_fixed" model="crm.program.config">
+  <field name="name">Conforming Custom Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_30_year_fixed_rate_fnma_homeready" model="crm.program.config">
+  <field name="name">30 Year Fixed Rate FNMA HomeReady</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_15_year_fixed_rate_fnma_homeready" model="crm.program.config">
+  <field name="name">15 Year Fixed Rate FNMA HomeReady</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_30_year_fixed_rate_fhlmc_home_possible" model="crm.program.config">
+  <field name="name">30 Year Fixed Rate FHLMC Home Possible</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_15_year_fixed_fhlmc_home_possible" model="crm.program.config">
+  <field name="name">15 Year Fixed FHLMC Home Possible</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_3yr_20yr_amor_balloon" model="crm.program.config">
+  <field name="name">3yr/20yr Amor Balloon</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_non_qm_agency_plus_30_year_fixed" model="crm.program.config">
+  <field name="name">Non-QM Agency Plus 30 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_non_qm_agency_plus_15_year_fixed" model="crm.program.config">
+  <field name="name">Non-QM Agency Plus 15 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_sample_builder_30_year_fixed_fees_tempage" model="crm.program.config">
+  <field name="name">*SAMPLE BUILDER 30 Year FIXED Fees tempage</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_40y_io" model="crm.program.config">
+  <field name="name">40y IO</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_convention_30_yr_buy_down" model="crm.program.config">
+  <field name="name">Convention 30 yr Buy Down</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conventional_io" model="crm.program.config">
+  <field name="name">Conventional I/O</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conventional_reverse" model="crm.program.config">
+  <field name="name">Conventional Reverse</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_dpa_conv_15_year_fixed_nondel" model="crm.program.config">
+  <field name="name">DPA-Conv 15 Year Fixed (NonDel)</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_dpa_conv_30_year_fixed_nondel" model="crm.program.config">
+  <field name="name">DPA-Conv 30 Year Fixed (NonDel)</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_dpa_other_fixed_nondel" model="crm.program.config">
+  <field name="name">DPA-Other Fixed (NonDel)</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_dscr_30_y_fixed_non_qm" model="crm.program.config">
+  <field name="name">DSCR - 30 Y Fixed (Non-QM)</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_dscr_40_y_fixed_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR - 40 Y Fixed IO (Non-QM)</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_dscr_40y_io" model="crm.program.config">
+  <field name="name">DSCR 40y IO</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_land_loan_15_year_fixed" model="crm.program.config">
+  <field name="name">Land Loan 15 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_30_year_fixed_hb" model="crm.program.config">
+  <field name="name">Conv 30 Year Fixed HB</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_15_year_fixed_hb" model="crm.program.config">
+  <field name="name">Conv 15 Year Fixed HB</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_30_year_fixed_sc" model="crm.program.config">
+  <field name="name">Conv 30 Year Fixed SC</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_conv_15_year_fixed_sc" model="crm.program.config">
+  <field name="name">Conv 15 Year Fixed SC</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_30_yr_fixed_hb_with_buy_dow_option" model="crm.program.config">
+  <field name="name">30 YR Fixed-HB with Buy Dow Option</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_jumbo_30_year_fixed" model="crm.program.config">
+  <field name="name">Jumbo 30 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_jumbo_15_year_fixed" model="crm.program.config">
+  <field name="name">Jumbo 15 Year Fixed</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_jumbo_30_yr_buy_down" model="crm.program.config">
+  <field name="name">Jumbo 30 yr Buy Down</field>
+  <field name="x_rate_type">fixed</field>
+</record>
+<record id="program_1_6_year_arm" model="crm.program.config">
+  <field name="name">1 /6 Year Arm</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_5_6_sofr_arm_agency" model="crm.program.config">
+  <field name="name">5/6 SOFR ARM Agency</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_7_6_sofr_arm_agency" model="crm.program.config">
+  <field name="name">7/6 SOFR ARM Agency</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_10_6_sofr_arm" model="crm.program.config">
+  <field name="name">10/6 SOFR ARM</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_3_1_arm_1_yr_t_bill" model="crm.program.config">
+  <field name="name">3/1 ARM 1 Yr T Bill</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_5_1_arm_1_yr_t_bill" model="crm.program.config">
+  <field name="name">5/1 ARM 1 Yr T Bill</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_5_6_sofr_jumbo_arm" model="crm.program.config">
+  <field name="name">5/6 SOFR JUMBO ARM</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_10_1_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 10/1 IO (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_5_6_arm_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 5/6 ARM (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_7_1_arm_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 7/1 ARM (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_7_6_arm_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 7/6 ARM (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_10_6_arm_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 10/6 ARM (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_5_1_arm_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 5/1 ARM (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_7_1_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 7/1 IO (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_5_6_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 5/6 IO (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_7_6_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 7/6 IO (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_10_6_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 10/6 IO (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_10_1_arm_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 10/1 ARM (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+<record id="program_dscr_5_1_io_non_qm" model="crm.program.config">
+  <field name="name">DSCR – 5/1 IO (Non-QM)</field>
+  <field name="x_rate_type">adjustable</field>
+</record>
+</odoo>
