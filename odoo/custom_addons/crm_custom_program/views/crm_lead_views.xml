@@ -6,9 +6,9 @@
     <field name="inherit_id" ref="crm.crm_lead_view_form"/>
     <field name="arch" type="xml">
       <xpath expr="//field[@name='partner_id']" position="after">
-        <field name="x_loan_type"/>
-        <field name="x_rate_type"/>
-        <field name="x_program"/>
+        <field name="loan_type"/>
+        <field name="rate_type"/>
+        <field name="program"/>
       </xpath>
     </field>
   </record>

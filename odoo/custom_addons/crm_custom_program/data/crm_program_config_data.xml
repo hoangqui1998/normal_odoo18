@@ -3,656 +3,656 @@
     <!-- Base Rate Types -->
     <record id="crm_program_rate_conventional_fixed" model="crm.program.config">
         <field name="name">Fixed</field>
-        <field name="x_loan_type">conventional</field>
+        <field name="loan_type">conventional</field>
     </record>
     <record id="crm_program_25__year_chattel_loan" model="crm.program.config">
         <field name="name">25 - year Chattel Loan</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_30_year_fixed_10yr_io" model="crm.program.config">
         <field name="name">30 year fixed 10Yr IO</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_01" model="crm.program.config">
         <field name="name">Chattel 20 YR Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_02" model="crm.program.config">
         <field name="name">Conv 30 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_03" model="crm.program.config">
         <field name="name">Conv 40 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_04" model="crm.program.config">
         <field name="name">Conv 20 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_05" model="crm.program.config">
         <field name="name">Conv 15 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_06" model="crm.program.config">
         <field name="name">Conv 10 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_07" model="crm.program.config">
         <field name="name">Conforming Custom Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_08" model="crm.program.config">
         <field name="name">Conv 30 Year Fixed HB</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_09" model="crm.program.config">
         <field name="name">Conv 15 Year Fixed HB</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_10" model="crm.program.config">
         <field name="name">Conv 30 Year Fixed SC</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_11" model="crm.program.config">
         <field name="name">Conv 15 Year Fixed SC</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_12" model="crm.program.config">
         <field name="name">30 Year Fixed Rate FNMA HomeReady</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_13" model="crm.program.config">
         <field name="name">15 Year Fixed Rate FNMA HomeReady</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_14" model="crm.program.config">
         <field name="name">30 Year Fixed Rate FHLMC Home Possible</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_15" model="crm.program.config">
         <field name="name">30 YR Fixed-HB with Buy Dow Option</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_16" model="crm.program.config">
         <field name="name">15 Year Fixed FHLMC Home Possible</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_17" model="crm.program.config">
         <field name="name">3yr/20yr Amor Balloon</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_17" model="crm.program.config">
         <field name="name">Jumbo 30 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_19" model="crm.program.config">
         <field name="name">Jumbo 15 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_20" model="crm.program.config">
         <field name="name">Non-QM Agency Plus 30 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_21" model="crm.program.config">
         <field name="name">Non-QM Agency Plus 15 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_22" model="crm.program.config">
         <field name="name">*SAMPLE BUILDER 30 Year FIXED Fees tempage</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_23" model="crm.program.config">
         <field name="name">40y IO</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_24" model="crm.program.config">
         <field name="name">Convention 30 yr Buy Down</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_25" model="crm.program.config">
         <field name="name">Conventional I/O</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_26" model="crm.program.config">
         <field name="name">Conventional Reverse</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_27" model="crm.program.config">
         <field name="name">DPA-Conv 15 Year Fixed (NonDel)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_28" model="crm.program.config">
         <field name="name">DPA-Conv 30 Year Fixed (NonDel)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_29" model="crm.program.config">
         <field name="name">DPA-Other Fixed (NonDel)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_30" model="crm.program.config">
         <field name="name">DSCR - 30 Y Fixed (Non-QM)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_31" model="crm.program.config">
         <field name="name">DSCR - 40 Y Fixed IO (Non-QM)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_32" model="crm.program.config">
         <field name="name">DSCR 40y IO</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_33" model="crm.program.config">
         <field name="name">Jumbo 30 yr Buy Down</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
     <record id="crm_program_34" model="crm.program.config">
         <field name="name">Land Loan 15 Year Fixed</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_fixed"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_fixed"/>
     </record>
 
 <!-- ////////////////////////////////////////// -->
 
     <record id="crm_program_rate_conventional_adjustable_rate" model="crm.program.config">
         <field name="name">Adjustable Rate</field>
-        <field name="x_loan_type">conventional</field>
+        <field name="loan_type">conventional</field>
     </record>
     <record id="crm_program_35" model="crm.program.config">
         <field name="name">1 /6 Year Arm</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_36" model="crm.program.config">
         <field name="name">5/6 SOFR ARM Agency</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_37" model="crm.program.config">
         <field name="name">5/6 SOFR Arm Agency High Balance</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_38" model="crm.program.config">
         <field name="name">7/6 SOFR Arm Agency</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_39" model="crm.program.config">
         <field name="name">7/6 SOFR ARM Agency High Balance</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_40" model="crm.program.config">
         <field name="name">10/6 SOFR ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_41" model="crm.program.config">
         <field name="name">10/6 SOFR Jumbo ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_42" model="crm.program.config">
         <field name="name">3/1 ARM 1 Yr T Bill</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_43" model="crm.program.config">
         <field name="name">5/1 ARM 1 Yr T Bill</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_44" model="crm.program.config">
         <field name="name">5/6 SOFR JUMBO ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_45" model="crm.program.config">
         <field name="name">DSCR - 10/1 IO (Non-QM)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_46" model="crm.program.config">
         <field name="name">DSCR - 5/6 ARM (Non QM)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_47" model="crm.program.config">
         <field name="name">DSCR - 7/1 ARM (Non-QM)</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_48" model="crm.program.config">
         <field name="name">DSCR- 5/1 ARM (Non-QM) IO</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_49" model="crm.program.config">
         <field name="name">Med Prof 7yr ARM SOFR WS.</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_50" model="crm.program.config">
         <field name="name">Mortgage Connect SOFR 6M6 ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_51" model="crm.program.config">
         <field name="name">Mortgage Connect SOFR NON QM 6M6 ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_52" model="crm.program.config">
         <field name="name">UWM 5/6 SOFR Jumbo ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
     <record id="crm_program_53" model="crm.program.config">
         <field name="name">UWM 7/6 SOFR Jumbo ARM</field>
-        <field name="x_loan_type">conventional</field>
-        <field name="x_rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
+        <field name="loan_type">conventional</field>
+        <field name="rate_type" ref="crm_program_rate_conventional_adjustable_rate"/>
     </record>
 
 <!-- ///////////////////////////////////////////// -->
 
     <record id="crm_program_rate_fha_fixed" model="crm.program.config">
         <field name="name">Fixed</field>
-        <field name="x_loan_type">fha</field>
+        <field name="loan_type">fha</field>
     </record>
     <record id="crm_program_54" model="crm.program.config">
         <field name="name">FHA 30 Year Fixed</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_55" model="crm.program.config">
         <field name="name">FHA 30 Year Fixed Buy Down</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_56" model="crm.program.config">
         <field name="name">FHA 40 Year Fixed</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_57" model="crm.program.config">
         <field name="name">FHA 15 Year Fixed</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_58" model="crm.program.config">
         <field name="name">FHA 30 Year Fixed Streamline</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_59" model="crm.program.config">
         <field name="name">FHA 15 Year Fixed Streamline</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_60" model="crm.program.config">
         <field name="name">FHA HB 30 Year Fixed</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_61" model="crm.program.config">
         <field name="name">FHA HB 15 Year Fixed</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_62" model="crm.program.config">
         <field name="name">FHA HB 30 Year Fixed Streamline</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_63" model="crm.program.config">
         <field name="name">FHA HB 15 Year Fixed Streamline</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_64" model="crm.program.config">
         <field name="name">1st Tribal Lending</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_65" model="crm.program.config">
         <field name="name">DPA-FHA 15 Year Fixed (NonDel)</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_66" model="crm.program.config">
         <field name="name">DPA-FHA 30 Year Fixed (NonDel)</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_67" model="crm.program.config">
         <field name="name">FHA 25 year term</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_68" model="crm.program.config">
         <field name="name">FHA Custom Term</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
     <record id="crm_program_69" model="crm.program.config">
         <field name="name">Reverse Mortgage</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_fixed"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_fixed"/>
     </record>
 
     <record id="crm_program_rate_fha_adjustable_rate" model="crm.program.config">
         <field name="name">Adjustable Rate</field>
-        <field name="x_loan_type">fha</field>
+        <field name="loan_type">fha</field>
     </record>
     <record id="crm_program_70" model="crm.program.config">
         <field name="name">5/1 Treasury ARM FHA</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
     </record>
     <record id="crm_program_71" model="crm.program.config">
         <field name="name">5/1 Treasury ARM FHA High Balance</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
     </record>
     <record id="crm_program_72" model="crm.program.config">
         <field name="name">5/1 Treasury ARM FHA High Balance Streamline Refinance</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
     </record>
     <record id="crm_program_73" model="crm.program.config">
         <field name="name">5/1 Treasury ARM FHA Streamline Refinance</field>
-        <field name="x_loan_type">fha</field>
-        <field name="x_rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
+        <field name="loan_type">fha</field>
+        <field name="rate_type" ref="crm_program_rate_fha_adjustable_rate"/>
     </record>
 
     <!-- //////////////////////////////////// -->
 
     <record id="crm_program_rate_va_fixed" model="crm.program.config">
         <field name="name">Fixed</field>
-        <field name="x_loan_type">va</field>
+        <field name="loan_type">va</field>
     </record>
     <record id="crm_program_74" model="crm.program.config">
         <field name="name">VA 30 Year Fixed</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_75" model="crm.program.config">
         <field name="name">VA 30 Year Fixed – Other</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_76" model="crm.program.config">
         <field name="name">VA 15 Year Fixed</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_77" model="crm.program.config">
         <field name="name">VA Custom Fixed</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_78" model="crm.program.config">
         <field name="name">VA 30 Year Fixed IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_79" model="crm.program.config">
         <field name="name">VA 15 Year Fixed IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_80" model="crm.program.config">
         <field name="name">VA HB 30 Year Fixed</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_81" model="crm.program.config">
         <field name="name">VA HB 15 Year Fixed</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_82" model="crm.program.config">
         <field name="name">VA 30 Year Fixed IRRRL (Jumbo)</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_83" model="crm.program.config">
         <field name="name">VA HB 30 Year Fixed IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_84" model="crm.program.config">
         <field name="name">VA HB 15 Year Fixed IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_85" model="crm.program.config">
         <field name="name">VA Jumbo 15 Year Fixed</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_86" model="crm.program.config">
         <field name="name">VA Jumbo 30 Year Fixed IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
     <record id="crm_program_87" model="crm.program.config">
         <field name="name">VA Jumbo 15 Year Fixed IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_fixed"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_fixed"/>
     </record>
 
     <record id="crm_program_rate_va_adjustable_rate" model="crm.program.config">
         <field name="name">Adjustable Rate</field>
-        <field name="x_loan_type">va</field>
+        <field name="loan_type">va</field>
     </record>
     <record id="crm_program_88" model="crm.program.config">
         <field name="name">5/1 Treasury ARM VA</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_adjustable_rate"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_adjustable_rate"/>
     </record>
     <record id="crm_program_89" model="crm.program.config">
         <field name="name">5/1 Treasury ARM VA High Balance</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_adjustable_rate"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_adjustable_rate"/>
     </record>
     <record id="crm_program_90" model="crm.program.config">
         <field name="name">5/1 Treasury ARM VA High Balance IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_adjustable_rate"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_adjustable_rate"/>
     </record>
     <record id="crm_program_91" model="crm.program.config">
         <field name="name">5/1 Treasury ARM VA IRRRL</field>
-        <field name="x_loan_type">va</field>
-        <field name="x_rate_type" ref="crm_program_rate_va_adjustable_rate"/>
+        <field name="loan_type">va</field>
+        <field name="rate_type" ref="crm_program_rate_va_adjustable_rate"/>
     </record>
 
     <record id="crm_program_rate_usda_fixed" model="crm.program.config">
         <field name="name">Fixed</field>
-        <field name="x_loan_type">USDA_rural_housing</field>
+        <field name="loan_type">USDA_rural_housing</field>
     </record>
     <record id="crm_program_92" model="crm.program.config">
         <field name="name">USDA 30 Year Fixed</field>
-        <field name="x_loan_type">USDA_rural_housing</field>
-        <field name="x_rate_type" ref="crm_program_rate_usda_fixed"/>
+        <field name="loan_type">USDA_rural_housing</field>
+        <field name="rate_type" ref="crm_program_rate_usda_fixed"/>
     </record>
 
     <record id="crm_program_rate_heloc_adjustable" model="crm.program.config">
         <field name="name">Adjustable</field>
-        <field name="x_loan_type">heloc</field>
+        <field name="loan_type">heloc</field>
     </record>
     <record id="crm_program_93" model="crm.program.config">
         <field name="name">AXEN HELOC – 10 Year</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_94" model="crm.program.config">
         <field name="name">AXEN HELOC – 15 Year</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_95" model="crm.program.config">
         <field name="name">AXEN HELOC – 30 Year</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_96" model="crm.program.config">
         <field name="name">AXEN HELOC – 5 Year</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_97" model="crm.program.config">
         <field name="name">CMG 10/6 ARM</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_98" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 2.5 Margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_99" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 2.75 Margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_100" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 3 Margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_101" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 3.25 Margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_102" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 3.5 Margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_103" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 3.75 Margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_104" model="crm.program.config">
         <field name="name">CMG Financial 1 month ARM 4.00 margin</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_105" model="crm.program.config">
         <field name="name">REMN HELOC</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
     <record id="crm_program_106" model="crm.program.config">
         <field name="name">Spring EQ HELOC</field>
-        <field name="x_loan_type">heloc</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloc_adjustable"/>
+        <field name="loan_type">heloc</field>
+        <field name="rate_type" ref="crm_program_rate_heloc_adjustable"/>
     </record>
 
     <record id="crm_program_rate_heloan_fixed" model="crm.program.config">
         <field name="name">Fixed</field>
-        <field name="x_loan_type">heloan</field>
+        <field name="loan_type">heloan</field>
     </record>
     <record id="crm_program_107" model="crm.program.config">
         <field name="name">Equity Wave Lending 2Y I/O</field>
-        <field name="x_loan_type">heloan</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloan_fixed"/>
+        <field name="loan_type">heloan</field>
+        <field name="rate_type" ref="crm_program_rate_heloan_fixed"/>
     </record>
     <record id="crm_program_108" model="crm.program.config">
         <field name="name">Spring EQ HELOAN</field>
-        <field name="x_loan_type">heloan</field>
-        <field name="x_rate_type" ref="crm_program_rate_heloan_fixed"/>
+        <field name="loan_type">heloan</field>
+        <field name="rate_type" ref="crm_program_rate_heloan_fixed"/>
     </record>
 
     <record id="crm_program_rate_others_fixed" model="crm.program.config">
         <field name="name">Fixed</field>
-        <field name="x_loan_type">others</field>
+        <field name="loan_type">others</field>
     </record>
     <record id="crm_program_109" model="crm.program.config">
         <field name="name">1 Yr Bridge Loan IO Only</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
     <record id="crm_program_110" model="crm.program.config">
         <field name="name">Commercial</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
     <record id="crm_program_111" model="crm.program.config">
         <field name="name">DSCR 40Year NonQM</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
     <record id="crm_program_112" model="crm.program.config">
         <field name="name">Portfolio 5/25</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
 
     <record id="crm_program_113" model="crm.program.config">
         <field name="name">Private/Hard Money</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
     <record id="crm_program_114" model="crm.program.config">
         <field name="name">SBA</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
 
     <record id="crm_program_115" model="crm.program.config">
         <field name="name">30 IO</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
     <record id="crm_program_116" model="crm.program.config">
         <field name="name">Portfolio 3/20</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
 
     <record id="crm_program_117" model="crm.program.config">
         <field name="name">Portfolio 5/20</field>
-        <field name="x_loan_type">others</field>
-        <field name="x_rate_type" ref="crm_program_rate_others_fixed"/>
+        <field name="loan_type">others</field>
+        <field name="rate_type" ref="crm_program_rate_others_fixed"/>
     </record>
     
 </odoo>
